@@ -1,0 +1,9 @@
+$length 10
+$k 20
+turn $k
+move $length
+turn $k
+move $length
+
+
+

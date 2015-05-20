@@ -1,0 +1,8 @@
+repeat 4
+move 40
+turn 20
+repeat 3
+move 20
+turn 20
+end
+end

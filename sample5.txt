@@ -1,0 +1,6 @@
+$length = 10
+move $length
+turn 20
+move $length
+turn 90
+
